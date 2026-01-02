@@ -3,6 +3,7 @@
 A responsive digital clock built with **React** and **Tailwind CSS**.  
 It supports **12 / 24-hour format**, **light & dark themes**, and updates in real time.
 
+[Live](https://muthu404200.github.io/Digital-Clock-React-js-tailwind-css/)
 ---
 
 ## Features
@@ -85,6 +86,6 @@ It supports **12 / 24-hour format**, **light & dark themes**, and updates in rea
 
 **Muthu**
 
-* GitHub: [your-username](https://github.com/Muthu404200)
+* GitHub: [Muthu](https://github.com/Muthu404200)
 
 ---

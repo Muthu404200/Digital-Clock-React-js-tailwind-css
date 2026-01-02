@@ -73,15 +73,6 @@ It supports **12 / 24-hour format**, **light & dark themes**, and updates in rea
 
 ---
 
-## 🧠 Improvements You Can Add
-
-* 🌍 Multiple time zones
-* ⏲ Stopwatch / Timer
-* 🎞 Smooth animations
-* 💾 Save theme preference using `localStorage`
-
----
-
 ## 🧑‍💻 Author
 
 **Muthu**
